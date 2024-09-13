@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: 0.6.1
+_src_path: https://github.com/nlesc/python-template.git
+copyright_holder: Anjali bhagat
+email: bhagatanjali66a@gmail.com
+full_name: Anjali bhagat
+github_organization: Anjali_bhagat
+keywords: game of life, optimization.ITC
+license: GNUv3
+package_name: life
+package_short_description: A python implementation of Game of life
+template_profile: minimum
+version: 0.1.0
