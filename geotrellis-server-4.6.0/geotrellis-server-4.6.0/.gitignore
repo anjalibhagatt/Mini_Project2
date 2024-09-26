@@ -1,0 +1,65 @@
+# Operating System Files
+
+*.DS_Store
+Thumbs.db
+
+# Build Files
+
+bin
+target
+build/
+.gradle
+cmake-build-debug
+
+# Eclipse Project Files
+
+.classpath
+.project
+.settings
+
+# IntelliJ IDEA Files
+
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# Sublime files
+
+*.sublime-workspace
+
+# VSCode files
+
+.vscode
+.history
+
+# Metals
+
+.metals
+.bloop
+metals.sbt
+
+# SBT
+
+.bsp
+
+# Other
+
+.#*
+.lib
+*.aux.xml
+*.jar
+*.crc
+
+_SUCCESS
+
+*.pyc
+.cache
+.settings
+*.swp
+*.swo
+
+nohup.out
+derby.log
+metastore_db/
+*.log
